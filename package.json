@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "typecheck": "tsc --noEmit --extendedDiagnostics"
+  },
+  "dependencies": {
+    "@types/react": "19.1.10",
+    "@types/react-dom": "19.1.7",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-native": "0.81.4",
+    "react-native-css": "3.0.7",
+    "react-strict-dom": "0.0.55",
+    "typescript": "5.9.2"
+  }
+}
